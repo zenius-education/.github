@@ -20,7 +20,5 @@
 ### Reviewer Checklist [PR Reviewer]:
 
 - [ ] Jira Id is tagged and correct
-- [ ] No new vulnerabilities are pointed out by SonarQube
-- [ ] No new code smells are pointed out by SonarQube
 - [ ] Adequate unit tests have been added
 - [ ] Adequate e2e tests have been added
