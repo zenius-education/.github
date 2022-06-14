@@ -17,7 +17,6 @@
 
 ### Pre-Merge Checklist [PR Author]:
 
-- [ ] QA Sign-off [@gh-username]
 - [ ] PR title follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Reviewer Checklist [PR Reviewer]:
